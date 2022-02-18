@@ -8,4 +8,4 @@ Esto es una practica de Git.
     3. Confirmar los cambios (git commit)
     4. Enviar los cambios a GitHub (git pull)
     
-    Es todo!
+    Es todo ya quedo.
